@@ -1,9 +1,0 @@
-nano ../.gitignore
-```
-```
-# Docker volumes
-mosquitto_data/
-mosquitto_log/
-
-# Logs
-*.log
